@@ -198,6 +198,11 @@ small{
 .col-5 img:hover{
  filter: grayscale(0%);
 }
+.menu-icon{
+	width:28px;
+	margin-left: 20px;
+	display: none;
+}
 
 /*-------------------media*/
 @media only screen and (max-width: 800px){
